@@ -1,10 +1,12 @@
-# design
-All things UX and UI related. Find links to our Figma files and customer journeys here.
+# stemstr design
+Welcome to our stemstr design page! Here, you can find everything related to our stemstr design system, active customer journeys and an available FigJam page that's dedicated to sharing community improvement ideas with our Core Team. 
 
 # figma
-https://www.figma.com/file/sNkqgWQjjx9GSiTqqFWtXr/Stemstr?node-id=53100%3A29264&t=ojRzxqNWsbbdzprk-0
+https://www.figma.com/file/cyFAijooLoe3ssiUxryRvf/Stemstr-App?node-id=1022%3A3346&t=vmkUTkMHaS8NIzWX-1
 
-![image](https://user-images.githubusercontent.com/2218506/215266686-35280350-b7b7-4167-a6ad-9864a084af67.png)
+# beta launch feature breakdown and active to-dos
+https://height.app/WB1HSrp0k1/beta-launch
 
-# journeys
-You can find all of our customer journeys [here](https://github.com/stemstr/Design/issues)
+# community ideas figjam
+This contains our entire design system. It should have all of the bits and pieces you might need to get your concept across. This is editable by anyone in the world, so please be kind and care for it appropriately. Please leave it in better shape than you found it. 
+
